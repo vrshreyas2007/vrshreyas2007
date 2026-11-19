@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student in bnmit<br>I'm looking forward to explore things
+I'm currently a student in BNMIT<br>I'm looking forward to explore new things.
 
 
 ## 🌐 Socials:
