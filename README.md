@@ -13,7 +13,7 @@ I'm currently a student in bnmit<br>I'm looking forward to explore things
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vrshreyas2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vrshreyas2007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![][![trophy](https://vercel.app)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
